@@ -1,0 +1,6 @@
+To include in printer.cfg:
+
+[include chameleon.cfg]
+
+
+... Normal printer config file below
